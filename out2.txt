@@ -1,0 +1,10 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-02-10 06:10 +01
+Nmap scan report for 10.10.174.95
+Host is up (0.56s latency).
+Not shown: 997 filtered ports
+PORT     STATE  SERVICE
+22/tcp   closed ssh
+80/tcp   open   http
+9090/tcp closed zeus-admin
+
+Nmap done: 1 IP address (1 host up) scanned in 74.92 seconds
